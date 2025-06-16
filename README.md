@@ -36,5 +36,5 @@ This repository contains assignments completed during the **Common Sessions** of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TTN_CommanSession.git
+   git clone https://github.com/AishwaryaRajLaxmii/TTN_CommanSession.git
   
